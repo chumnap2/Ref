@@ -1,0 +1,3 @@
+/home/chumnap/fprime/Ref/SignalGen/Commands.fppi
+/home/chumnap/fprime/Ref/SignalGen/Events.fppi
+/home/chumnap/fprime/Ref/SignalGen/Telemetry.fppi

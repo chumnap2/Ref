@@ -1,0 +1,12 @@
+ByteStreamDataPortAc.cpp
+ByteStreamDataPortAc.hpp
+ByteStreamDataPortAi.xml
+ByteStreamReadyPortAc.cpp
+ByteStreamReadyPortAc.hpp
+ByteStreamReadyPortAi.xml
+ByteStreamSendPortAc.cpp
+ByteStreamSendPortAc.hpp
+ByteStreamSendPortAi.xml
+ByteStreamStatusEnumAc.cpp
+ByteStreamStatusEnumAc.hpp
+ByteStreamStatusEnumAi.xml

@@ -1,0 +1,13 @@
+/home/chumnap/fprime/Fw/Buffer/Buffer.fpp
+/home/chumnap/fprime/Fw/Cmd/Cmd.fpp
+/home/chumnap/fprime/Fw/Dp/Dp.fpp
+/home/chumnap/fprime/Fw/Interfaces/Channel.fpp
+/home/chumnap/fprime/Fw/Interfaces/Command.fpp
+/home/chumnap/fprime/Fw/Interfaces/Event.fpp
+/home/chumnap/fprime/Fw/Log/Log.fpp
+/home/chumnap/fprime/Fw/Time/Time.fpp
+/home/chumnap/fprime/Fw/Tlm/Tlm.fpp
+/home/chumnap/fprime/Fw/Types/Types.fpp
+/home/chumnap/fprime/Ref/build-fprime-automatic-native/F-Prime/default/config/FpConfig.fpp
+/home/chumnap/fprime/Ref/build-fprime-automatic-native/cmake/platform/unix/Platform/PlatformTypes.fpp
+/home/chumnap/fprime/Svc/Sched/Sched.fpp
