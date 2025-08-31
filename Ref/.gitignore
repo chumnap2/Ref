@@ -8,3 +8,47 @@ events/
 dict/
 DpCat
 seq
+# ========================
+# F' Ref Build Artifacts
+# ========================
+build-artifacts/
+build-fprime-automatic-native/
+build-fprime-automatic-native-ut/
+
+# ========================
+# Python Virtual Environment
+# ========================
+fprime-venv/
+.venv/
+
+# ========================
+# Logs
+# ========================
+logs/
+*.log
+
+# ========================
+# Editor/IDE Files
+# ========================
+*.swp
+*.swo
+*.bak
+*.tmp
+*.idea/
+*.vscode/
+*.DS_Store
+
+# ========================
+# Patch files (optional)
+# ========================
+# fix-required-cmake.patch
+
+# ========================
+# CMake Cache/Temp
+# ========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build.ninja
+*.ninja
